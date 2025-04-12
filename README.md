@@ -1,1 +1,3 @@
-https://drive.google.com/file/d/1Ijtv5aQU3bNjARrxpQmX_4CXahvnyXsp/view?usp=drivesdk
+handlers.ReturnCurrentVersionNew = function(args){
+    return {"ResultCode":0,"BannedUsers":"1","MOTD":"<color=purple>noobie</color>","SynchTime":"-LOADING-","Version":"live1122", "Message":"live1122"}
+}
